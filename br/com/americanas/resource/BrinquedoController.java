@@ -13,7 +13,6 @@ public class BrinquedoController {
 	static BufferedReader ler = new BufferedReader(new InputStreamReader(System.in));
 	static Scanner scanner = new Scanner(System.in);
 	static ArrayList<Brinquedo> brinquedos;
-//	Caixa caixa = new Caixa();
 
 	public BrinquedoController() {
 		brinquedos = new ArrayList<>();

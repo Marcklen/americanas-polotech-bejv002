@@ -19,7 +19,6 @@ public class LivrariaApp {
 	static FilmeController controllerFilme = new FilmeController();
 	static JogoController controllerJogo = new JogoController();
 	static LivroController controllerLivro = new LivroController();
-//	Caixa caixa;
 
 	public static void main(String[] args) throws IOException {
 		int op;

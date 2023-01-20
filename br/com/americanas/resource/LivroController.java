@@ -16,7 +16,7 @@ public class LivroController {
 	static List<Livro> livros = new ArrayList<>();
 	
 	public void cadastrarLivro() throws IOException {
-		System.out.println("CADASTRO DE FILME");
+		System.out.println("CADASTRO DE LIVRO");
 		System.out.println("Informe o nome do Livro?");
 		String nome = ler.readLine();
 		System.out.println("Informe o genero do Livro? " + nome);
